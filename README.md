@@ -11,5 +11,5 @@ Build your about me section next. Add a picture, short paragraph and format it p
 
 Like the navbar, getting the about me header and the related text to line up with a border between them has ended up being trickier than I had expected.
 
-
+Tables! The answer is tables thats how yo keep everything organized and consistent!
 
